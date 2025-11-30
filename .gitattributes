@@ -1,0 +1,9 @@
+*.py linguist-detectable=true
+*.js linguist-detectable=true
+*.vue linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.json linguist-detectable=true
+*.md linguist-documentation=true
+backend/* linguist-weight=5
+frontend/* linguist-weight=5
